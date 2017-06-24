@@ -4,4 +4,6 @@ iPhone／iOS 推荐现已经更新到2.0；
 自己在使用iOS APP的一些小心得分享给大家；
 希望对大家有帮助。
 
+[查看推荐](iOS-App-recommend/The Great iPhone Apps V2.0.md)
+
 注：先前的1.x版本是用html写在自己的服务器上。
